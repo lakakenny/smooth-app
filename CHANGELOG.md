@@ -1,5 +1,22 @@
 # Changelog
 
+## [4.6.0](https://github.com/openfoodfacts/smooth-app/compare/v4.5.0...v4.6.0) (2023-03-02)
+
+
+### 🐛 Bug Fixes
+
+* 3459 - Added a shortcut in app settings to In-app settings ([#3726](https://github.com/openfoodfacts/smooth-app/issues/3726)) ([9113c4a](https://github.com/openfoodfacts/smooth-app/commit/9113c4a09f1278f1d68c93865e0c09a0f097552d))
+* 3723 - additional tests ([#3737](https://github.com/openfoodfacts/smooth-app/issues/3737)) ([c281395](https://github.com/openfoodfacts/smooth-app/commit/c281395bdc3b0154557015653243799ed43ced13))
+* 3724 - Fixed bottom overflowed on the history page in small devices ([#3727](https://github.com/openfoodfacts/smooth-app/issues/3727)) ([f23d60b](https://github.com/openfoodfacts/smooth-app/commit/f23d60be3e984cef709c5cc5a1cc47ccebac6792))
+* Clicking outside the suggestion popup should close it ([#3754](https://github.com/openfoodfacts/smooth-app/issues/3754)) ([2b0fe2b](https://github.com/openfoodfacts/smooth-app/commit/2b0fe2b5a8476cd9efa1ed199b8215694d666f4a))
+
+
+### 🚀 Features
+
+* 3749 - improvements for packaging suggestions ([#3750](https://github.com/openfoodfacts/smooth-app/issues/3750)) ([90a9bc5](https://github.com/openfoodfacts/smooth-app/commit/90a9bc546d5489acf358413bc56a59f7a123527b))
+* Clearer 'Packaging components' preview and modified the maximum size of the autocomplete tab. ([#3744](https://github.com/openfoodfacts/smooth-app/issues/3744)) ([79e205d](https://github.com/openfoodfacts/smooth-app/commit/79e205d781599f510c5ed8d91cacd838982a0320))
+* new localized label 'sep' as separator before colon (especially in French) ([#3753](https://github.com/openfoodfacts/smooth-app/issues/3753)) ([edc2b69](https://github.com/openfoodfacts/smooth-app/commit/edc2b69c42d4b51167b3a050047a20ab66140193))
+
 ## [4.5.0](https://github.com/openfoodfacts/smooth-app/compare/v4.4.0...v4.5.0) (2023-02-23)
 
 
